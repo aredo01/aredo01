@@ -7,7 +7,7 @@ DevOps Junior associate
 Aspiring Cloud DevOps Junior Associate.I am passionate about automating cloud infrastructure, continuous integration, and deployment workflows
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [chris119odu@gmail.com](mailto:chris119odu@gmail.com)
+* ✉️  You can contact me at 
 * 🧠  I'm learning Aws
 
 ### Skills
