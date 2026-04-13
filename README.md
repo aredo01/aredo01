@@ -19,9 +19,9 @@ Bash scripting
 YAML (CI/CD pipelines)
 ⚙️ Version Control
 Git & GitHub
-☁️ Cloud Platform
-Amazon Web Services
-(EC2, S3, IAM, VPC, CloudWatch, basic EKS)
+☁️ Cloud Platform 
+Amazon Web Services (EC2, S3, IAM, VPC, CloudWatch, basic EKS)
+
 🔁 CI/CD & Automation
 Jenkins
 GitHub Actions
@@ -54,7 +54,8 @@ Integrated GitHub for source control
 Containerised microservices using Docker
 Deployed workloads on a Kubernetes cluster
 Managed scaling, updates, and service discovery
-👉 Focus: Container orchestration & cloud-native apps
+👉 Focus: Container orchestration & cloud-native apps 
+
 3. Infrastructure as Code with Terraform (AWS)
 Provisioned AWS infrastructure using Terraform
 Created reusable infrastructure modules
@@ -86,6 +87,5 @@ System reliability and scalability improvements
 <p align="center"> <a href="https://github.com/aredo01"> <img src="https://github-readme-stats.vercel.app/api?username=aredo01&show_icons=true&theme=tokyonight" /> </a> <a href="https://github.com/aredo01"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aredo01&theme=tokyonight" /> </a> </p>
 🤝 Let's Connect
 GitHub: https://github.com/aredo01
-LinkedIn: add your LinkedIn here
-Email: your-email@example.com
-X (Twitter): https://x.com/aredo_cchris
+LinkedIn: https://www.linkedin.com/in/christopher-aredo/
+
