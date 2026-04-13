@@ -1,35 +1,89 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chris Aredo
-=========================================================================================================================================
+👋 Hi, I'm Aredo Tech
+🚀 Cloud & DevOps Engineer (Junior Associate)
 
-DevOps Junior associate
------------------------
+Cloud DevOps Associate focused on building automated, scalable, and secure cloud infrastructure. Passionate about CI/CD pipelines, Infrastructure as Code, containerization, and AWS cloud automation.
 
-Aspiring Cloud DevOps Junior Associate. I am passionate about automating cloud infrastructure, continuous integration, and deployment workflows
+I use modern DevOps tools and Python automation scripts to simplify cloud operations and delivery pipelines.
 
-* 🌍  I'm based in Germany
-* ✉️  You can contact me at 
-* 🧠  I'm learning Aws
+🌍 About Me
+📍 Based in Germany
+☁️ Cloud Focus: AWS & DevOps Engineering
+🧠 Currently learning: Kubernetes, CI/CD automation, cloud architecture
+🎯 Goal: Junior DevOps / Cloud Engineer role in Germany or EU remote teams
+⚙️ Passion: Automating everything with code (DevOps mindset)
+✉️ Contact: your-email@example.com
+🧰 Tech Stack & DevOps Tools
+🐍 Programming & Automation
+Python (automation scripts, DevOps tooling, APIs)
+Bash scripting
+YAML (CI/CD pipelines)
+⚙️ Version Control
+Git & GitHub
+☁️ Cloud Platform
+Amazon Web Services
+(EC2, S3, IAM, VPC, CloudWatch, basic EKS)
+🔁 CI/CD & Automation
+Jenkins
+GitHub Actions
+Automated build, test & deployment pipelines
+📦 Containers & Orchestration
+Docker
+Kubernetes
+🏗️ Infrastructure as Code (IaC)
+Terraform
+AWS CloudFormation (basic)
+⚙️ Configuration Management
+Ansible
+🖥️ Operating Systems & Tools
+Linux (Ubuntu, WSL)
+VS Code
+Networking fundamentals
+📊 Monitoring & Observability
+Prometheus (basic)
+Grafana (basic)
+AWS CloudWatch
+🚀 Featured DevOps Projects
+1. CI/CD Pipeline with Jenkins, Docker & AWS
+Automated CI/CD pipeline using Jenkins
+Built Docker images for application deployment
+Deployed the application on AWS EC2
+Integrated GitHub for source control
 
-### Skills
+👉 Focus: End-to-end DevOps automation
+2. Kubernetes Deployment Project
+Containerized microservices using Docker
+Deployed workloads on Kubernetes cluster
+Managed scaling, updates, and service discovery
+👉 Focus: Container orchestration & cloud-native apps
+3. Infrastructure as Code with Terraform (AWS)
+Provisioned AWS infrastructure using Terraform
+Created reusable infrastructure modules
+Automated EC2, VPC, and S3 deployment
+👉 Focus: Infrastructure automation
+4. Python DevOps Automation Scripts 🐍
+Built Python scripts for:
+AWS resource automation
+Log parsing & monitoring
+CI/CD pipeline helpers
+System health checks
+Integrated Python with shell scripts for automation workflows
+Used Python APIs (boto3) for AWS interaction
 
+👉 Focus: Real-world DevOps automation using Python
+🎯 Career Objective
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+Seeking a Junior DevOps / Cloud Engineer role where I can contribute to:
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/aredo01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/aredo_cchris" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/aredo01"><img src="https://github-readme-stats.vercel.app/api?username=aredo01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="aredo01's GitHub stats" /></a>
-
-<a href="http://www.github.com/aredo01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aredo01&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/aredo01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aredo01&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/aredo01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aredo01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+Cloud infrastructure automation (AWS)
+CI/CD pipeline development (Jenkins, GitHub Actions)
+Kubernetes-based deployments
+Infrastructure as Code (Terraform)
+Python-based automation tools for DevOps workflows
+System reliability and scalability improvements
+📈 GitHub Stats
+<p align="center"> <a href="https://github.com/aredo01"> <img src="https://github-readme-stats.vercel.app/api?username=aredo01&show_icons=true&theme=tokyonight" /> </a> <a href="https://github.com/aredo01"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aredo01&theme=tokyonight" /> </a> </p>
+🤝 Let's Connect
+GitHub: https://github.com/aredo01
+LinkedIn: add your LinkedIn here
+Email: your-email@example.com
+X (Twitter): https://x.com/aredo_cchris
