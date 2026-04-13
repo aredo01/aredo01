@@ -7,11 +7,11 @@ I use modern DevOps tools and Python automation scripts to simplify cloud operat
 
 🌍 About Me
 📍 Based in Germany
+
 ☁️ Cloud Focus: AWS & DevOps Engineering
 🧠 Currently learning: Kubernetes, CI/CD automation, cloud architecture
 🎯 Goal: Junior DevOps / Cloud Engineer role in Germany or EU remote teams
 ⚙️ Passion: Automating everything with code (DevOps mindset)
-✉️ Contact: your-email@example.com
 🧰 Tech Stack & DevOps Tools
 🐍 Programming & Automation
 Python (automation scripts, DevOps tooling, APIs)
@@ -51,8 +51,8 @@ Integrated GitHub for source control
 
 👉 Focus: End-to-end DevOps automation
 2. Kubernetes Deployment Project
-Containerized microservices using Docker
-Deployed workloads on Kubernetes cluster
+Containerised microservices using Docker
+Deployed workloads on a Kubernetes cluster
 Managed scaling, updates, and service discovery
 👉 Focus: Container orchestration & cloud-native apps
 3. Infrastructure as Code with Terraform (AWS)
@@ -60,6 +60,8 @@ Provisioned AWS infrastructure using Terraform
 Created reusable infrastructure modules
 Automated EC2, VPC, and S3 deployment
 👉 Focus: Infrastructure automation
+
+
 4. Python DevOps Automation Scripts 🐍
 Built Python scripts for:
 AWS resource automation
