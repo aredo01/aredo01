@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Junior associate
 -----------------------
 
-Aspiring Cloud DevOps Junior Associate.I am passionate about automating cloud infrastructure, continuous integration, and deployment workflows
+Aspiring Cloud DevOps Junior Associate. I am passionate about automating cloud infrastructure, continuous integration, and deployment workflows
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at 
