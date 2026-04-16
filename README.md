@@ -1,5 +1,5 @@
 👋 Hi, I'm Aredo Tech
-🚀 Cloud & DevOps Engineer (Junior Associate)
+🚀 Cloud & DevOps Junior Associate
 
 Cloud DevOps Associate focused on building automated, scalable, and secure cloud infrastructure. Passionate about CI/CD pipelines, Infrastructure as Code, containerization, and AWS cloud automation.
 
